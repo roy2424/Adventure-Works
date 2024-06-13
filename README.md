@@ -51,7 +51,7 @@ Product Detail
 
 Customer Detail
 
-![Uploading image.png…]()
+![image](https://github.com/roy2424/Adventure-Works/assets/49911192/1226b05b-3750-4e45-bb9d-ac8c69a19afa)
 
 
 Insights:
