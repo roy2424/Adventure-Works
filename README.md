@@ -31,17 +31,28 @@ Dashboard Screenshots:
 
 Exec dashboard
 
+![image](https://github.com/roy2424/Adventure-Works/assets/49911192/a05e38e7-a66c-472e-9ebc-404b082fc5dd)
+
+
 -Map Dashboard:
 
 map
+
+![image](https://github.com/roy2424/Adventure-Works/assets/49911192/f170cfa0-4ef4-4eb6-8c11-af20a5a75166)
 
 -Product Detail:
 
 Product Detail
 
+![image](https://github.com/roy2424/Adventure-Works/assets/49911192/5ce4ff8a-17a1-4214-889f-93ad5c8733b3)
+
+
 -Customer Detail:
 
 Customer Detail
+
+![Uploading image.png…]()
+
 
 Insights:
 
